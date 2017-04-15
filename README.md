@@ -26,7 +26,7 @@ To install everything in one command, use:
 ```sh
 cd $HOME && git clone https://github.com/RaminSudo/Eset && cd eset && wget "https://valtman.name/files/telegram-cli-1222" && mv telegram-cli-1222 tg && chmod +x tg && chmod +x launch.sh && ./launch.sh
 ```
-
+## Dont Forget Edit `ESET.lua` ##
 * * *
 
 # Developers!
