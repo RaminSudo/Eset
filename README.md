@@ -10,12 +10,13 @@
 # Let's install the bot.
 cd $HOME
 git clone https://github.com/RaminSudo/Eset
+cd Eset
 wget "https://valtman.name/files/telegram-cli-1222"
 mv telegram-cli-1222 tg
-cd Eset
 chmod +x tg
 chmod +x launch.sh
-./launch.sh 
+./launch.sh
+./tg -s ESET.lua
 # Enter a phone number & confirmation code.
 
 # For Auto Launch:
